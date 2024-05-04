@@ -1,9 +1,9 @@
 {
     "id": "BEC6A5A5",
-    "path": "~/Library/CloudStorage/OneDrive-WirtschaftsuniversitätWien/Master/Industry_Lab/Shiny/Project_v2_8/Project_v2_8/ui.R",
+    "path": "~/Library/CloudStorage/OneDrive-WirtschaftsuniversitätWien/Master/Industry_Lab/Shiny/Project_v2_8/ui.R",
     "project_path": "ui.R",
     "type": "r_source",
-    "hash": "1939676019",
+    "hash": "1719550766",
     "contents": "",
     "dirty": false,
     "created": 1714739835001.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "250,1",
-        "scrollLine": "239"
+        "cursorPosition": "4,12",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1714729298,
+    "lastKnownWriteTime": 1714832387,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1714729298,
+    "last_content_update": 1714832387969,
     "read_only": false,
     "read_only_alternatives": []
 }
